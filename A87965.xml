@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from several ministers in and about Edinburgh, to the ministers of London, concerning the re-establishing of the covenant.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87965</idno><idno type="EEBO-CITATION">99866980</idno>
+  <idno type="VID">119270</idno>
+  <idno type="EEBO-PROQUEST">2240935560</idno>
+  
+            <idno type="STC">Wing L1505</idno>
+            <idno type="STC">Thomason E1017_11</idno>
+            <idno type="STC">ESTC R207967</idno>
+            <idno type="PROQUEST">99866980</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866980e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119270)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from several ministers in and about Edinburgh, to the ministers of London, concerning the re-establishing of the covenant.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edinburgh for Christopher Higgens, and reprinted at London for Richard Hills,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119270:1"/>
+            <p>A LETTER From Several MINISTERS In and about EDINBURGH, TO THE Ministers of London, Concerning the Re-establishing of the Covenant.</p>
+            <q>
+               <hi>Blessed are the Eunouchs that ohserve my Sab<g ref="char:EOLhyphen"/>baths, and keep my Covenant.</hi>
+            </q>
+            <p>Printed at <hi>Edinburgh</hi> for <hi>Christopher Hig<g ref="char:EOLhyphen"/>gens,</hi> and reprinted at <hi>London</hi> for <hi>Richard Hills,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119270:2"/>
+            <pb n="3" facs="tcp:119270:2"/>
+            <head>A LETTER FROM Several Ministers in and about <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> to the Ministers of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Reverend and Dear Brethren,</salute>
+            </opener>
+            <p>THe sudden and great Deliverance which it hath pleased our most gra<g ref="char:EOLhyphen"/>cious God to work for us, when we were even as <hi>a dry ground and barien wilder<g ref="char:EOLhyphen"/>ness;</hi> as it hath filled our hearts with admi<g ref="char:EOLhyphen"/>ration of his gracious Providence, so doth it also fill our mouthes with praises: So that we may now say contentedly with blessed <hi>Simeon, Lord, now lettest thou thy servants depart in peace, for our eyes have seen thy righ<g ref="char:EOLhyphen"/>teousness, as well as our salvation.</hi>
+            </p>
+            <p>This will therefore something excuse the
+<pb n="4" facs="tcp:119270:3"/> discomp<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sedness and indeliberate contents of this Gratulatory Address, being no more then the Extasie and Raptures of our thankful acknowledgements of this most Transcendent Mercy, our present grateful thoughts on these blessed Dispensations, which our most serious &amp; intense thoughts cannot sufficiently commend to our high<g ref="char:EOLhyphen"/>est and purest Devotion.</p>
+            <p>That the despised Cause, &amp; the afflicted Churches of Christ, our contemned, vilifi<g ref="char:EOLhyphen"/>ed Function and Persons, our most <hi>Solemn League and Covenant</hi> traduced and aspersed with hypocrisie and fraction, should not onely be vindicated and asserted from the violence of Heresie and Schism, as well as from the insultings of Superstition and Prophaneness; but also openly and avow<g ref="char:EOLhyphen"/>edly be countenanced, the Gospel held forth in its purity, the Ministery encoura<g ref="char:EOLhyphen"/>ged and maintained, our <hi>Covenant</hi> justified and cleared, and by it the interest of the Reformed Churches abroad, promoted and advanced, is such a marvellous work in our
+<pb n="5" facs="tcp:119270:3"/> eyes, that we may well say with the Pro<g ref="char:EOLhyphen"/>phet <hi>David, As the Heaven is high above the earth, so is his meecy toward them that fear him: The Lord hath done it, and with a strong and mighty hand hath he redeemed his people Israel.</hi>
+            </p>
+            <p>What a dismal dark cloud had over<g ref="char:EOLhyphen"/>spread the three Nations? in what a <hi>Chaos</hi> and Confusion were we? The Anabaptists like locusts, were upon all our green things, even our hope, they had almost swallow<g ref="char:EOLhyphen"/>ed us up, the precious Ordinances of our Saviour accounted superfluous and unne<g ref="char:EOLhyphen"/>cessary, to give way to Revelations and de<g ref="char:EOLhyphen"/>ceits of Satan; the fury of that boundless Heresie reaching both our Temporal and Spiritual Estates, and prostituting us as the worst of men, to the derision and scorn of the world: But our soul, and the delight of our soul (Gods Sacred Ordinances) is escaped <hi>as a Bird out of the Snare of the Fowlers;</hi> and so unexpected was this our Redemption, that <hi>when the Lord turned the Captivity of Sion, we were like men that dreamt.</hi>
+            </p>
+            <pb n="6" facs="tcp:119270:4"/>
+            <p>Indeed such a weight of humble thank<g ref="char:EOLhyphen"/>fulness lies upon our spirits, which this merciful and indulgent favour, hath raised from a sinking and low condition, that we think we can no way better advance the duty of praise, then by a reflecting eye to consider of our distress, and in thinking of that, to look back and b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wail our sins and miscarriage, that have provoked the holi<g ref="char:EOLhyphen"/>ness and justice of our God to so great a displeasure against us: Certainly we have dealt perversly, and it will now become us to return and amend our errours, that the Lord may delight to perfect the glorious work he hath begun in the midst of us, that his Gospel may now at length run freely, and be glorified, and the mouthes of these gainsayers may be stopped, and their de<g ref="char:EOLhyphen"/>signs frustrated, and that it may be unto them, <hi>as when an hungry man dreameth, and behold he eateth, but he awaketh, and his soul is emptie: So let the multitude of the Nations be that fight against Sion.</hi>
+            </p>
+            <p>Our souls long after the full and thorow
+<pb n="7" facs="tcp:119270:4"/> Reformation which we have so long con<g ref="char:EOLhyphen"/>tended for, that God would please to make and grant it as the reward of our patience, since he saw it not convenient to bestow it on our Arms, or to lay such a glorious Foun<g ref="char:EOLhyphen"/>dation in blood. To that purpose we do excite you as our dearest Brethren, to use your utmost endeavours at the <hi>Throne of Grace</hi> in behalf of our Governours, that God would give them that prudence, and wise conduct of affairs, <hi>That the Ages to come and present, may call them Blessed, the Restorers of our Breaches, and the Liberators of their Countrey,</hi> and, <hi>Let the Lords Remem<g ref="char:EOLhyphen"/>brancers never give him rest, until he make</hi> Jerusalem <hi>a praise upon the earth.</hi>
+            </p>
+            <p>For our own parts we trust we shall not be found wanting in this day, nor let slip such a precious prize, as the peace and pro<g ref="char:EOLhyphen"/>sperity of <hi>Sion,</hi> through any remisness of our duty either in publick or private, no way doubting but that all the Lords people engag'd with us in Covenant (remembring how fearfully God hath in justice punished the Breakers and Violaters of it) will una<g ref="char:EOLhyphen"/>nimously
+<pb n="8" facs="tcp:119270:5"/> endeavour the same; that by our Prayers and Repentance we may recover the Honour and Tranquility of these di<g ref="char:EOLhyphen"/>stressed Nations, which our iniquities hi<g ref="char:EOLhyphen"/>therto have justly withheld from us, we commit you to Gods most holy Protection, and remain,</p>
+            <closer>
+               <signed>Your Brethren and fellow labourers in the Gospel of Christ.</signed>
+               <dateline>Edinburgh, <date>March 11, 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
